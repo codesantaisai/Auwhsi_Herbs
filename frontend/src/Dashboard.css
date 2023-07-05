@@ -1,0 +1,30 @@
+@import url('https://fonts.googleapis.com/css2?family=Eczar:wght@400;500;600&family=Playfair+Display&display=swap');
+/* .dashbrd{
+
+    background-color: #fff;
+} */
+
+body{
+    background-color: #dce1d5;
+    font-size: 1.3rem;
+    font-family: 'Eczar', serif;
+    font-family: 'Playfair Display', serif;
+    font-family: 'Raleway', sans-serif;
+}
+.dash{
+    color: #584027;
+}
+
+.card-footer{
+    background-color: #fff;
+    border-radius: 10px !important;
+    font-size: 1.2rem;
+}
+
+.pro{
+    font-style: normal;
+    color:#078617;
+
+
+}
+
